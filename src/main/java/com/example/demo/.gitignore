@@ -1,0 +1,32 @@
+# Java/Spring Boot build artifacts
+/target/
+/build/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+dependency-reduced-pom.xml
+
+# Local database or sensitive configs
+application-local.properties
+application.properties
+
+# Miscellaneous
+*.DS_Store
+.classpath
+.project
+.settings/
